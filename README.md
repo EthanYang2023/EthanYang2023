@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on USA
 - 🌱 I’m currently learning AI
 
+![](https://img.struy.cn/img/202304231731149.png)
 <!--
 **EthanYang2023/EthanYang2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
